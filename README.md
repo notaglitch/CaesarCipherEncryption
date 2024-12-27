@@ -15,7 +15,7 @@ Welcome to the **Caesar Cipher Encryption Tool**! This simple tool allows you to
 1. **Clone the repository**:
    Clone the repository to your local machine using Git:
    ```bash
-   git clone https://github.com/notaglitch/caesar-cipher-tool.git
+   git clone https://github.com/notaglitch/CaesarCipherEncryption.git
    ```
 
 2. **Run the tool**:
