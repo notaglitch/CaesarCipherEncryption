@@ -21,7 +21,7 @@ Welcome to the **Caesar Cipher Encryption Tool**! This simple tool allows you to
 2. **Run the tool**:
    Navigate to the directory where the file is located and run the Python script:
    ```bash
-   python caesar_cipher.py
+   python main.py
    ```
 
 3. **Follow the prompts**:
